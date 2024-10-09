@@ -4,7 +4,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // Path direktori utama
-$rootDir = dirname(__DIR__) . '/dir-agent/upload';
+$rootDir = dirname(__DIR__) . '/path/to/dir';
 
 // Path yang saat ini diakses
 $currentDir = isset($_GET['dir']) ? rtrim($_GET['dir'], '/') : $rootDir;
