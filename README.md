@@ -1,3 +1,4 @@
+![Screenshot Aplikasi](https://github.com/enigma-phantom/delete-directory-dateformat/blob/main/screenshot/Screenshot_1.jpeg)
 # Directory Browser & Alat Penghapusan File Berdasarkan Tanggal
 
 Aplikasi ini adalah **Directory Browser** berbasis PHP yang memungkinkan Anda untuk melihat dan menghapus file atau folder berdasarkan tanggal dari beberapa direktori. Alat ini secara otomatis mencari folder berdasarkan tanggal yang Anda masukkan dan dapat menghapusnya secara rekursif dari beberapa direktori tanpa harus masuk satu per satu.
